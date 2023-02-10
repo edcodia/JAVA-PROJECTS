@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+template-java-fundamentals,com.capgemini.pt.talentfactory.templatejavafundamentals,Runner,9,228,4,14,2,55,4,13,0,7
+template-java-fundamentals,com.capgemini.pt.talentfactory.templatejavafundamentals,Invoice,4,33,0,0,2,8,1,4,1,4
+template-java-fundamentals,com.capgemini.pt.talentfactory.templatejavafundamentals,InvoiceService,0,23,0,0,0,6,0,3,0,3
+template-java-fundamentals,com.capgemini.pt.talentfactory.templatejavafundamentals,Application,16,0,0,0,6,0,2,0,2,0
+template-java-fundamentals,com.capgemini.pt.talentfactory.templatejavafundamentals,Item,8,15,0,0,4,6,2,3,2,3
